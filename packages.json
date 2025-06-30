@@ -5,5 +5,26 @@
     "version": "24.09",
     "url": "https://www.7-zip.org/a/7z2409-x64.exe",
     "silentArgs": "/S"
+  },
+  {
+    "id": "vlc",
+    "name": "VLC",
+    "version": "3.0.21",
+    "url": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+    "silentArgs": "/S"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "version": "2.50.0",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe",
+    "silentArgs": "/S"
+  },
+  {
+    "id": "notepadpp",
+    "name": "Notepad++",
+    "version": "8.8.1",
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.1/npp.8.8.1.Installer.x64.exe",
+    "silentArgs": "/S"
   }
 ]
