@@ -1,0 +1,9 @@
+[
+  {
+    "id": "7zip",
+    "name": "7-Zip",
+    "version": "24.09",
+    "url": "https://www.7-zip.org/a/7z2409-x64.exe",
+    "silentArgs": "/S"
+  }
+]
