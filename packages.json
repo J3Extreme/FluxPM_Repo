@@ -47,5 +47,12 @@
     "version": "9.4",
     "url": "https://nilesoft.org/downloadup-9.4.exe",
     "silentArgs": ""
+  },
+  {
+    "id": "chrome",
+    "name": "Chrome",
+    "version": "latest_Installer",
+    "url": "https://dl.google.com/tag/s/empty/update2/installers/ChromeSetup.exe",
+    "silentArgs": "/silent /install."
   }
 ]
