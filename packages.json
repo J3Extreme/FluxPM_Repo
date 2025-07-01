@@ -103,5 +103,12 @@
     "version": "140.0.2",
     "url": "https://ftp.mozilla.org/pub/firefox/releases/140.0.2/win64/en-US/Firefox%20Setup%20140.0.2.exe",
     "silentArgs": "/S"
+  },
+  {
+    "id": "temurin-java21-jdk",
+    "name": "Temurin Java 21 JDK",
+    "version": "21.0.7.6",
+    "url": "https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin21-binaries%2Freleases%2Fdownload%2Fjdk-21.0.7%252B6%2FOpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi",
+    "silentArgs": ""
   }
 ]
