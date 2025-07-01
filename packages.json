@@ -108,7 +108,7 @@
     "id": "temurin-java21-jdk",
     "name": "Temurin Java 21 JDK",
     "version": "21.0.7.6",
-    "url": "https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin21-binaries%2Freleases%2Fdownload%2Fjdk-21.0.7%252B6%2FOpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.msi",
     "silentArgs": ""
   }
 ]
