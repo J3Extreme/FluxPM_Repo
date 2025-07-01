@@ -114,8 +114,8 @@
   {
     "id": "fluxpm",
     "name": "FluxPM",
-    "version": "v1.0.0",
-    "url": "https://github.com/J3Extreme/FluxPM/releases/download/main/fluxpm.py",
+    "version": "v1.0.1",
+    "url": "https://github.com/J3Extreme/FluxPM/releases/download/v1.0.1/fluxpm.py",
     "silentArgs": ""
   }
 ]
